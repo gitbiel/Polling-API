@@ -1,0 +1,7 @@
+
+{
+  "plugins": ["prettier-plugin-prisma"],
+  "trailingComma": "es5", 
+  "semi": true,
+  "singleQuote": false
+}
