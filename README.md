@@ -35,7 +35,7 @@ npm run dev
 - POST /polls: Crie uma nova enquete
 - GET /polls/:id: Obtenha detalhes de uma enquete específica
 - POST /polls/:id/vote: Vote em uma enquete
-- 
+  
 ## Dependências
 - Fastify
 - Prisma
